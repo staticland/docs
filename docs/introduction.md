@@ -4,14 +4,14 @@ StaticLand is an open-source project providing hosting for static sites with aut
 
 ## Contents
 
-- [Creating a site](docs/creating-a-site)
-- [Reset your password](docs/reset-your-password)
-- [Overview](docs/projects-overview)
-- [Command-line tool](docs/command-line)
-- [Web app](docs/web-app)
-- [API server](docs/api-server)
-- [API client](docs/api-client)
-- [Related modules](docs/related-modules)
+- [Creating a site](/creating-a-site)
+- [Reset your password](/reset-your-password)
+- [Overview](/projects-overview)
+- [Command-line tool](/command-line)
+- [Web app](/web-app)
+- [API server](/api-server)
+- [API client](/api-client)
+- [Related modules](/related-modules)
 
 ## Contact
 
