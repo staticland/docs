@@ -1,0 +1,26 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Documentation for StaticLand",
+  "main": "index.js",
+  "scripts": {
+    "build:local": "minidocs docs/ -t \"StaticLand Docs\" -c contents.js -o dist --pushstate -s style.css",
+    "build:deploy": "minidocs docs/ -t \"StaticLand Docs\" -c contents.js -o dist --full-html -s style.css",
+    "start": "npm run build:local && budo --dir dist --pushstate",
+    "deploy": "npm run build:deploy && staticland dist/ docs.static.land"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staticland/docs.git"
+  },
+  "author": "sethvincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staticland/docs/issues"
+  },
+  "homepage": "https://github.com/staticland/docs#readme",
+  "dependencies": {
+    "minidocs": "^4.2.1",
+    "staticland": "^3.1.0"
+  }
+}
