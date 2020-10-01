@@ -6,7 +6,7 @@ There are currently only a few actions supported, but more will be added soon!
 
 [Use the StaticLand web app.](https://app.static.land)
 
-Github repository: [github.com/staticland/app.static.land](https://github.com/staticland/app.static.land)
+Github repository: [github.com/staticland/staticland-ui](https://github.com/staticland/staticland-ui)
 
 ## Create an account
 
