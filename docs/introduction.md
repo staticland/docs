@@ -32,8 +32,8 @@ StaticLand is an open-source project providing hosting for static sites with aut
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](https://github.com/staticland/staticland/CONTRIBUTING.md) first.
+Contributions are welcome! Please read the [contributing guidelines](https://github.com/staticland/staticland/blob/master/CONTRIBUTING.md) first.
 
 ## Conduct
 
-It's important that this project contributes to a friendly, safe, and welcoming environment for all, particularly for folks that are historically underrepresented in technology. Read this project's [code of conduct](https://github.com/staticland/staticland/CONDUCT.md)
+It's important that this project contributes to a friendly, safe, and welcoming environment for all, particularly for folks that are historically underrepresented in technology. Read this project's [code of conduct](https://github.com/staticland/staticland/blob/master/CONDUCT.md)
